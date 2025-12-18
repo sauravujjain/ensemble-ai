@@ -294,12 +294,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👤 Author
 
-**Saurav Sharma**
-- LinkedIn: [Your LinkedIn]
-- Email: [Your Email]
+**Saurav Ujjain**
+- LinkedIn: www.linkedin.com/in/sarv
+- Email: sauravujjain@gmail.com
 
 ---
 
 <p align="center">
   Made with ❤️ for fashion enthusiasts
 </p>
+
